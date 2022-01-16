@@ -6,8 +6,8 @@ namespace newHomeWork4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("giorgi papuashvili");
-            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("Hello World!");
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine(Console.ReadLine());
         }
     }
